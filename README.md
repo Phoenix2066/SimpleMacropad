@@ -1,2 +1,2 @@
 # SimpleMacropad
-A simple macropad suing Arduino
+A simple macropad using Arduino
